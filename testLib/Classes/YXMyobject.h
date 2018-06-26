@@ -8,5 +8,6 @@
 #import <Foundation/Foundation.h>
 
 @interface YXMyobject : NSObject
-
+//测试一些东西
+- (void)testSomething;
 @end

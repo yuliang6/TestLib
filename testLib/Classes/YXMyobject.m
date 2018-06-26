@@ -8,5 +8,7 @@
 #import "YXMyobject.h"
 
 @implementation YXMyobject
-
+- (void)testSomething{
+    NSLog(@"测试打印的东西");
+}
 @end
